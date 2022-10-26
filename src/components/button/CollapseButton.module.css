@@ -1,0 +1,15 @@
+.collapseButton {
+	border: 1px solid #7d0000;
+	border-radius: 5px;
+	font-size: 16px;
+	background-color: #fff;
+	box-shadow: '0 3px 5px 2px rgba(255, 105, 135, .3)';
+	color: #7d0000;
+	height: 48px;
+	padding: 5px;
+}
+
+.collapseButton:hover {
+	cursor: pointer;
+	background-color: #45000079;
+}
